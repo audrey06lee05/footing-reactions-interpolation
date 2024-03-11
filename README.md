@@ -2,7 +2,7 @@
 
 This python script calculates the interpolation of the footing reactions between the maximum and minimum water depth. 
 
-Intructions:
+Intructions: \n
 The python script extracts the inputs from the spreadsheet. In the spreadsheet, you can see yellow highlights which are the ONLY fields that you have to fill in. 
 After you fill them in, you may put it in the same folder as your python script and run it. 
 
